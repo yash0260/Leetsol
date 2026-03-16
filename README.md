@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/yash0260/Leetsol/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/yash0260/Leetsol/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/yash0260/Leetsol/tree/master/1068-product-sales-analysis-i) |
+| [1251-average-selling-price](https://github.com/yash0260/Leetsol/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/yash0260/Leetsol/tree/master/1280-students-and-examinations) |
 | [1934-confirmation-rate](https://github.com/yash0260/Leetsol/tree/master/1934-confirmation-rate) |
 ## Binary Search
