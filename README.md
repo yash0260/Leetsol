@@ -27,11 +27,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash0260/Leetsol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/yash0260/Leetsol/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash0260/Leetsol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/yash0260/Leetsol/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -44,4 +46,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash0260/Leetsol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## String
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
