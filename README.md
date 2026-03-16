@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0577-employee-bonus](https://github.com/yash0260/Leetsol/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/yash0260/Leetsol/tree/master/1068-product-sales-analysis-i) |
+| [1280-students-and-examinations](https://github.com/yash0260/Leetsol/tree/master/1280-students-and-examinations) |
 ## Binary Search
 |  |
 | ------- |
