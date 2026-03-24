@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/yash0260/Leetsol/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/yash0260/Leetsol/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yash0260/Leetsol/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1901-find-a-peak-element-ii](https://github.com/yash0260/Leetsol/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/yash0260/Leetsol/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/yash0260/Leetsol/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yash0260/Leetsol/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1901-find-a-peak-element-ii](https://github.com/yash0260/Leetsol/tree/master/1901-find-a-peak-element-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/yash0260/Leetsol/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/yash0260/Leetsol/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yash0260/Leetsol/tree/master/0074-search-a-2d-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/yash0260/Leetsol/tree/master/1901-find-a-peak-element-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/yash0260/Leetsol/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/yash0260/Leetsol/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Prefix Sum
