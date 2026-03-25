@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/yash0260/Leetsol/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/yash0260/Leetsol/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/yash0260/Leetsol/tree/master/1075-project-employees-i) |
+| [1211-queries-quality-and-percentage](https://github.com/yash0260/Leetsol/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/yash0260/Leetsol/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/yash0260/Leetsol/tree/master/1280-students-and-examinations) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/yash0260/Leetsol/tree/master/1633-percentage-of-users-attended-a-contest) |
