@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/yash0260/Leetsol/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2069-walking-robot-simulation-ii](https://github.com/yash0260/Leetsol/tree/master/2069-walking-robot-simulation-ii) |
 ## Stack
 |  |
 | ------- |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/yash0260/Leetsol/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/yash0260/Leetsol/tree/master/2069-walking-robot-simulation-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash0260/Leetsol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
