@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yash0260/Leetsol/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash0260/Leetsol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash0260/Leetsol/tree/master/0240-search-a-2d-matrix-ii) |
+| [0396-rotate-function](https://github.com/yash0260/Leetsol/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/yash0260/Leetsol/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/yash0260/Leetsol/tree/master/0704-binary-search) |
 | [0874-walking-robot-simulation](https://github.com/yash0260/Leetsol/tree/master/0874-walking-robot-simulation) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/yash0260/Leetsol/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/yash0260/Leetsol/tree/master/0410-split-array-largest-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/yash0260/Leetsol/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/yash0260/Leetsol/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/yash0260/Leetsol/tree/master/0060-permutation-sequence) |
+| [0396-rotate-function](https://github.com/yash0260/Leetsol/tree/master/0396-rotate-function) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/yash0260/Leetsol/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/yash0260/Leetsol/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash0260/Leetsol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
