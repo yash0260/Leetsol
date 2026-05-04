@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash0260/Leetsol/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/yash0260/Leetsol/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/yash0260/Leetsol/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/yash0260/Leetsol/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yash0260/Leetsol/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yash0260/Leetsol/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/yash0260/Leetsol/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash0260/Leetsol/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/yash0260/Leetsol/tree/master/1901-find-a-peak-element-ii) |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yash0260/Leetsol/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/yash0260/Leetsol/tree/master/0060-permutation-sequence) |
 | [0396-rotate-function](https://github.com/yash0260/Leetsol/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/yash0260/Leetsol/tree/master/0788-rotated-digits) |
