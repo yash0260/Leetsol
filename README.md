@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/yash0260/Leetsol/tree/master/1861-rotating-the-box) |
 | [1901-find-a-peak-element-ii](https://github.com/yash0260/Leetsol/tree/master/1901-find-a-peak-element-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yash0260/Leetsol/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/yash0260/Leetsol/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/yash0260/Leetsol/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/yash0260/Leetsol/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/yash0260/Leetsol/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/yash0260/Leetsol/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/yash0260/Leetsol/tree/master/2069-walking-robot-simulation-ii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/yash0260/Leetsol/tree/master/2553-separate-the-digits-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/yash0260/Leetsol/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash0260/Leetsol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
