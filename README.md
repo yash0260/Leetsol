@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/yash0260/Leetsol/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/yash0260/Leetsol/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yash0260/Leetsol/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yash0260/Leetsol/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/yash0260/Leetsol/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/yash0260/Leetsol/tree/master/1861-rotating-the-box) |
 | [1901-find-a-peak-element-ii](https://github.com/yash0260/Leetsol/tree/master/1901-find-a-peak-element-ii) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/yash0260/Leetsol/tree/master/0410-split-array-largest-sum) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yash0260/Leetsol/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/yash0260/Leetsol/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Enumeration
 |  |
@@ -261,4 +263,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/yash0260/Leetsol/tree/master/0060-permutation-sequence) |
+## Sorting
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yash0260/Leetsol/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 <!---LeetCode Topics End-->
