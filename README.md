@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/yash0260/Leetsol/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yash0260/Leetsol/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash0260/Leetsol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0189-rotate-array](https://github.com/yash0260/Leetsol/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash0260/Leetsol/tree/master/0240-search-a-2d-matrix-ii) |
 | [0396-rotate-function](https://github.com/yash0260/Leetsol/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/yash0260/Leetsol/tree/master/0410-split-array-largest-sum) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash0260/Leetsol/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/yash0260/Leetsol/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash0260/Leetsol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1861-rotating-the-box](https://github.com/yash0260/Leetsol/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/yash0260/Leetsol/tree/master/3643-flip-square-submatrix-vertically) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/yash0260/Leetsol/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/yash0260/Leetsol/tree/master/0060-permutation-sequence) |
+| [0189-rotate-array](https://github.com/yash0260/Leetsol/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/yash0260/Leetsol/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/yash0260/Leetsol/tree/master/0788-rotated-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yash0260/Leetsol/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
