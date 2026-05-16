@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/yash0260/Leetsol/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash0260/Leetsol/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/yash0260/Leetsol/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash0260/Leetsol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/yash0260/Leetsol/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/yash0260/Leetsol/tree/master/0048-rotate-image) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/yash0260/Leetsol/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash0260/Leetsol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/yash0260/Leetsol/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/yash0260/Leetsol/tree/master/0189-rotate-array) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/yash0260/Leetsol/tree/master/0018-4sum) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yash0260/Leetsol/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Union-Find
 |  |
