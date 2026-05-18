@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/yash0260/Leetsol/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yash0260/Leetsol/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1306-jump-game-iii](https://github.com/yash0260/Leetsol/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/yash0260/Leetsol/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yash0260/Leetsol/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yash0260/Leetsol/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/yash0260/Leetsol/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/yash0260/Leetsol/tree/master/0128-longest-consecutive-sequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash0260/Leetsol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-walking-robot-simulation](https://github.com/yash0260/Leetsol/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/yash0260/Leetsol/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yash0260/Leetsol/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3488-closest-equal-element-queries](https://github.com/yash0260/Leetsol/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yash0260/Leetsol/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash0260/Leetsol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1306-jump-game-iii](https://github.com/yash0260/Leetsol/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/yash0260/Leetsol/tree/master/1345-jump-game-iv) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yash0260/Leetsol/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Design
 |  |
