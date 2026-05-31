@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/yash0260/Leetsol/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/yash0260/Leetsol/tree/master/1306-jump-game-iii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/yash0260/Leetsol/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/yash0260/Leetsol/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/yash0260/Leetsol/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yash0260/Leetsol/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/yash0260/Leetsol/tree/master/1306-jump-game-iii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/yash0260/Leetsol/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/yash0260/Leetsol/tree/master/1345-jump-game-iv) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yash0260/Leetsol/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Design
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/yash0260/Leetsol/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/yash0260/Leetsol/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/yash0260/Leetsol/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/yash0260/Leetsol/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Trie
 |  |
 | ------- |
@@ -395,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/yash0260/Leetsol/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/yash0260/Leetsol/tree/master/0802-find-eventual-safe-states) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/yash0260/Leetsol/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/yash0260/Leetsol/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Sliding Window
 |  |
