@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/yash0260/Leetsol/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/yash0260/Leetsol/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/yash0260/Leetsol/tree/master/3660-jump-game-ix) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/yash0260/Leetsol/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/yash0260/Leetsol/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/yash0260/Leetsol/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/yash0260/Leetsol/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/yash0260/Leetsol/tree/master/0455-assign-cookies) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yash0260/Leetsol/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yash0260/Leetsol/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/yash0260/Leetsol/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/yash0260/Leetsol/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Enumeration
 |  |
@@ -448,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/yash0260/Leetsol/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/yash0260/Leetsol/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -456,4 +459,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yash0260/Leetsol/tree/master/0062-unique-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/yash0260/Leetsol/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
