@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0127-word-ladder](https://github.com/yash0260/Leetsol/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0583-delete-operation-for-two-strings](https://github.com/yash0260/Leetsol/tree/master/0583-delete-operation-for-two-strings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yash0260/Leetsol/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1871-jump-game-vii](https://github.com/yash0260/Leetsol/tree/master/1871-jump-game-vii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yash0260/Leetsol/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/yash0260/Leetsol/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/yash0260/Leetsol/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/yash0260/Leetsol/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/yash0260/Leetsol/tree/master/0583-delete-operation-for-two-strings) |
 | [0788-rotated-digits](https://github.com/yash0260/Leetsol/tree/master/0788-rotated-digits) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yash0260/Leetsol/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1340-jump-game-v](https://github.com/yash0260/Leetsol/tree/master/1340-jump-game-v) |
