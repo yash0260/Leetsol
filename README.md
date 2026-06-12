@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/yash0260/Leetsol/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0583-delete-operation-for-two-strings](https://github.com/yash0260/Leetsol/tree/master/0583-delete-operation-for-two-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/yash0260/Leetsol/tree/master/1021-remove-outermost-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yash0260/Leetsol/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1871-jump-game-vii](https://github.com/yash0260/Leetsol/tree/master/1871-jump-game-vii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yash0260/Leetsol/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yash0260/Leetsol/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yash0260/Leetsol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/yash0260/Leetsol/tree/master/0173-binary-search-tree-iterator) |
+| [1021-remove-outermost-parentheses](https://github.com/yash0260/Leetsol/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
 | ------- |
