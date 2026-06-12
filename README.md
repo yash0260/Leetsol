@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/yash0260/Leetsol/tree/master/0127-word-ladder) |
+| [0151-reverse-words-in-a-string](https://github.com/yash0260/Leetsol/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0583-delete-operation-for-two-strings](https://github.com/yash0260/Leetsol/tree/master/0583-delete-operation-for-two-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/yash0260/Leetsol/tree/master/1021-remove-outermost-parentheses) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/yash0260/Leetsol/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash0260/Leetsol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/yash0260/Leetsol/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/yash0260/Leetsol/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/yash0260/Leetsol/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/yash0260/Leetsol/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash0260/Leetsol/tree/master/0653-two-sum-iv-input-is-a-bst) |
