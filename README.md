@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yash0260/Leetsol/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/yash0260/Leetsol/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yash0260/Leetsol/tree/master/0014-longest-common-prefix) |
 | [0127-word-ladder](https://github.com/yash0260/Leetsol/tree/master/0127-word-ladder) |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yash0260/Leetsol/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/yash0260/Leetsol/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash0260/Leetsol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/yash0260/Leetsol/tree/master/0031-next-permutation) |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yash0260/Leetsol/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/yash0260/Leetsol/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/yash0260/Leetsol/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/yash0260/Leetsol/tree/master/0064-minimum-path-sum) |
