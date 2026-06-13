@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/yash0260/Leetsol/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/yash0260/Leetsol/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yash0260/Leetsol/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/yash0260/Leetsol/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash0260/Leetsol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-walking-robot-simulation](https://github.com/yash0260/Leetsol/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/yash0260/Leetsol/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yash0260/Leetsol/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0451-sort-characters-by-frequency](https://github.com/yash0260/Leetsol/tree/master/0451-sort-characters-by-frequency) |
 | [0583-delete-operation-for-two-strings](https://github.com/yash0260/Leetsol/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/yash0260/Leetsol/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yash0260/Leetsol/tree/master/1021-remove-outermost-parentheses) |
@@ -427,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/yash0260/Leetsol/tree/master/0451-sort-characters-by-frequency) |
 | [2833-furthest-point-from-origin](https://github.com/yash0260/Leetsol/tree/master/2833-furthest-point-from-origin) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/yash0260/Leetsol/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Backtracking
@@ -442,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0018-4sum](https://github.com/yash0260/Leetsol/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/yash0260/Leetsol/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/yash0260/Leetsol/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/yash0260/Leetsol/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1340-jump-game-v](https://github.com/yash0260/Leetsol/tree/master/1340-jump-game-v) |
@@ -500,9 +504,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/yash0260/Leetsol/tree/master/0451-sort-characters-by-frequency) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/yash0260/Leetsol/tree/master/3691-maximum-total-subarray-value-ii) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/yash0260/Leetsol/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/yash0260/Leetsol/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
