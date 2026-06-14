@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash0260/Leetsol/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/yash0260/Leetsol/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/yash0260/Leetsol/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash0260/Leetsol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash0260/Leetsol/tree/master/0215-kth-largest-element-in-an-array) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/yash0260/Leetsol/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yash0260/Leetsol/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yash0260/Leetsol/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search Tree
@@ -534,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/yash0260/Leetsol/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash0260/Leetsol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/yash0260/Leetsol/tree/master/0451-sort-characters-by-frequency) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/yash0260/Leetsol/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -549,4 +552,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash0260/Leetsol/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/yash0260/Leetsol/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
