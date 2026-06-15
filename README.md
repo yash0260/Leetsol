@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/yash0260/Leetsol/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/yash0260/Leetsol/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/yash0260/Leetsol/tree/master/0733-flood-fill) |
+| [0846-hand-of-straights](https://github.com/yash0260/Leetsol/tree/master/0846-hand-of-straights) |
 | [0874-walking-robot-simulation](https://github.com/yash0260/Leetsol/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/yash0260/Leetsol/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/yash0260/Leetsol/tree/master/0904-fruit-into-baskets) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/yash0260/Leetsol/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/yash0260/Leetsol/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash0260/Leetsol/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0846-hand-of-straights](https://github.com/yash0260/Leetsol/tree/master/0846-hand-of-straights) |
 | [0874-walking-robot-simulation](https://github.com/yash0260/Leetsol/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/yash0260/Leetsol/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/yash0260/Leetsol/tree/master/0930-binary-subarrays-with-sum) |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yash0260/Leetsol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/yash0260/Leetsol/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/yash0260/Leetsol/tree/master/0455-assign-cookies) |
+| [0846-hand-of-straights](https://github.com/yash0260/Leetsol/tree/master/0846-hand-of-straights) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yash0260/Leetsol/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1903-largest-odd-number-in-string](https://github.com/yash0260/Leetsol/tree/master/1903-largest-odd-number-in-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yash0260/Leetsol/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -477,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/yash0260/Leetsol/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/yash0260/Leetsol/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/yash0260/Leetsol/tree/master/0455-assign-cookies) |
+| [0846-hand-of-straights](https://github.com/yash0260/Leetsol/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1340-jump-game-v](https://github.com/yash0260/Leetsol/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yash0260/Leetsol/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
