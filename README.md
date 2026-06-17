@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-longest-common-suffix-queries](https://github.com/yash0260/Leetsol/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yash0260/Leetsol/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/yash0260/Leetsol/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/yash0260/Leetsol/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/yash0260/Leetsol/tree/master/3838-weighted-word-mapping) |
 ## Depth-First Search
 |  |
@@ -451,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2069-walking-robot-simulation-ii](https://github.com/yash0260/Leetsol/tree/master/2069-walking-robot-simulation-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/yash0260/Leetsol/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/yash0260/Leetsol/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/yash0260/Leetsol/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/yash0260/Leetsol/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/yash0260/Leetsol/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash0260/Leetsol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
