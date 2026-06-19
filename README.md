@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/yash0260/Leetsol/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/yash0260/Leetsol/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yash0260/Leetsol/tree/master/0014-longest-common-prefix) |
+| [0072-edit-distance](https://github.com/yash0260/Leetsol/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/yash0260/Leetsol/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/yash0260/Leetsol/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/yash0260/Leetsol/tree/master/0205-isomorphic-strings) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/yash0260/Leetsol/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/yash0260/Leetsol/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/yash0260/Leetsol/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/yash0260/Leetsol/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yash0260/Leetsol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yash0260/Leetsol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/yash0260/Leetsol/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
