@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yash0260/Leetsol/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/yash0260/Leetsol/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yash0260/Leetsol/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/yash0260/Leetsol/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/yash0260/Leetsol/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/yash0260/Leetsol/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/yash0260/Leetsol/tree/master/1861-rotating-the-box) |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/yash0260/Leetsol/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/yash0260/Leetsol/tree/master/0846-hand-of-straights) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yash0260/Leetsol/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/yash0260/Leetsol/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/yash0260/Leetsol/tree/master/1903-largest-odd-number-in-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yash0260/Leetsol/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/yash0260/Leetsol/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1340-jump-game-v](https://github.com/yash0260/Leetsol/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yash0260/Leetsol/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/yash0260/Leetsol/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/yash0260/Leetsol/tree/master/1840-maximum-building-height) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yash0260/Leetsol/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Union-Find
@@ -577,4 +580,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yash0260/Leetsol/tree/master/0023-merge-k-sorted-lists) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/yash0260/Leetsol/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
