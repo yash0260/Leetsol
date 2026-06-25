@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/yash0260/Leetsol/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/yash0260/Leetsol/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/yash0260/Leetsol/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/yash0260/Leetsol/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/yash0260/Leetsol/tree/master/0619-biggest-single-number) |
 | [1068-product-sales-analysis-i](https://github.com/yash0260/Leetsol/tree/master/1068-product-sales-analysis-i) |
