@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/yash0260/Leetsol/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/yash0260/Leetsol/tree/master/1861-rotating-the-box) |
 | [1901-find-a-peak-element-ii](https://github.com/yash0260/Leetsol/tree/master/1901-find-a-peak-element-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yash0260/Leetsol/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/yash0260/Leetsol/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yash0260/Leetsol/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/yash0260/Leetsol/tree/master/2540-minimum-common-value) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yash0260/Leetsol/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1871-jump-game-vii](https://github.com/yash0260/Leetsol/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/yash0260/Leetsol/tree/master/1903-largest-odd-number-in-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yash0260/Leetsol/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yash0260/Leetsol/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/yash0260/Leetsol/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/yash0260/Leetsol/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
