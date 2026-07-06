@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yash0260/Leetsol/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/yash0260/Leetsol/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yash0260/Leetsol/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1288-remove-covered-intervals](https://github.com/yash0260/Leetsol/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/yash0260/Leetsol/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/yash0260/Leetsol/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/yash0260/Leetsol/tree/master/1345-jump-game-iv) |
@@ -524,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/yash0260/Leetsol/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/yash0260/Leetsol/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1288-remove-covered-intervals](https://github.com/yash0260/Leetsol/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/yash0260/Leetsol/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yash0260/Leetsol/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/yash0260/Leetsol/tree/master/1833-maximum-ice-cream-bars) |
