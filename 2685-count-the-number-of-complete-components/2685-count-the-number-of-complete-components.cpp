@@ -1,0 +1,32 @@
+class Solution {
+public:
+void dfs(int node,vector<vector<int>>&adj,vector<int>&vis,int &vertices,int &degreesum){
+    vis[node]=1;
+    vertices++;
+    degreesum+=adj[node].size();
+    for(int neigh:adj[node]){
+        if(!vis[neigh])
+        dfs(neigh,adj,vis,vertices,degreesum);
+    }
+}
+    int countCompleteComponents(int n, vector<vector<int>>& edges) {
+     vector<vector<int>>adj(n);
+     for(auto &e :edges){
+        adj[e[0]].push_back(e[1]);
+        adj[e[1]].push_back(e[0]);
+     }
+     vector<int>vis(n,0);
+     int ans=0;
+     for(int i=0;i<n;i++){
+        if(!vis[i]){
+            int vertices=0;
+            int degreesum=0;
+            dfs(i,adj,vis,vertices,degreesum);
+            int actualedges=degreesum/2;
+            int expectedges=vertices*(vertices-1)/2;
+            if(actualedges==expectedges)ans++;
+        }
+     }   
+     return ans;
+    }
+};
