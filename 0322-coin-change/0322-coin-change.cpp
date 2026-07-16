@@ -1,24 +1,24 @@
 class Solution {
-    int helper(vector<int>&coins,int rem,vector<int> &dp){
-        if(rem==0)return 0;
-        if(rem<0)return -1;
-        if(dp[rem]!=-2)return dp[rem];
-        int mini=INT_MAX;
-        for(int coin:coins){
-            int res=helper(coins,rem-coin,dp);
-            if(res>=0 && res<mini)mini=1+res;
-        }
-    if (mini == INT_MAX) {
-    dp[rem] = -1;
-} else {
-    dp[rem] = mini;
-}
-     return dp[rem];
-    }
 public:
+int f(int ind,int t,vector<int>& coins,vector<vector<int>>&dp){
+    if(ind==0){
+        if(t%coins[0]==0)return t/coins[0];
+        return 1e9;
+    }
+    if(dp[ind][t]!=-1)return dp[ind][t];
+    int nottake=0+f(ind-1,t,coins,dp);
+    int take =INT_MAX;
+    if(coins[ind]<=t){
+ take=1+f(ind,t-coins[ind],coins,dp);
+    }
+    dp[ind][t]=min(take,nottake);
+    return dp[ind][t];
+}
     int coinChange(vector<int>& coins, int amount) {
-      vector<int>dp(amount+1,-2);
-      return helper(coins,amount,dp);
-
+        int n=coins.size();
+        vector<vector<int>>dp(n,vector<int>(amount+1,-1));
+        int ans=f(n-1,amount ,coins,dp);
+        if(ans>=1e9)return -1;
+        return ans;
     }
 };
