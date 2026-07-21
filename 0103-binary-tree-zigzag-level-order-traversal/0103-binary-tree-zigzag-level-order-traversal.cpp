@@ -6,51 +6,40 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        vector<vector<int>>ans;
-        if(root==nullptr)return ans;
-        queue<TreeNode*>q;
+        if (root == nullptr)
+            return {};
+        vector<vector<int>> ans;
+        queue<TreeNode*> q;
         q.push(root);
-        bool leftToRight = true;
-
-        while(!q.empty()){
-            int size=q.size();
-            vector<int>level(size);
-            for(int i=0;i<size;i++){
-                int index;
-                TreeNode*node=q.front();
+        bool b = true;
+        while (!q.empty()) {
+            vector<int> arr;
+            int n = q.size();
+            for (int i = 0; i < n; i++) {
+                TreeNode* node = q.front();
                 q.pop();
-                if (leftToRight == true) {
-                    index = i;
-                }
-                else {
-                    index = size - i - 1;
-                }
-                level[index] = node->val;
-if (node->left != nullptr) {
+                arr.push_back(node->val);
+                if (node->left)
                     q.push(node->left);
-                }
 
-                // Push right child
-                if (node->right != nullptr) {
+                if (node->right)
                     q.push(node->right);
-                }
             }
-                ans.push_back(level);
-            
-            if (leftToRight == true) {
-                leftToRight = false;
+            if (b) {
+                ans.push_back(arr);
+            } else {
+                reverse(arr.begin(), arr.end());
+                ans.push_back(arr);
             }
-            else {
-                leftToRight = true;
-            }
-
+            b = !b;
         }
-     return ans;
+        return ans;
     }
 };
