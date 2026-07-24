@@ -1,36 +1,40 @@
 class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        if (mat.empty() || mat[0].empty())
-            return {};
+        int n=mat.size();
+        int m=mat[0].size();
+        vector<vector<int>>vis(n,vector<int> (m,0));
+        queue<pair<pair<int,int>,int>>q;
+        vector<vector<int>>ans(n,vector<int> (m,0));
 
-        int m = mat.size(), n = mat[0].size();
-        queue<pair<int, int>> queue;
-        int MAX_VALUE = m * n;
-        
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (mat[i][j] == 0) {
-                    queue.push({i, j});
-                } else {
-                    mat[i][j] = MAX_VALUE;
+        int step=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(mat[i][j]==0 && vis[i][j]==0){
+                    vis[i][j]=1;
+q.push({{i,j},step});
+ans[i][j]=step;
                 }
             }
         }
-        
-        vector<pair<int, int>> directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-        
-        while (!queue.empty()) {
-            auto [row, col] = queue.front(); queue.pop();
-            for (auto [dr, dc] : directions) {
-                int r = row + dr, c = col + dc;
-                if (r >= 0 && r < m && c >= 0 && c < n && mat[r][c] > mat[row][col] + 1) {
-                    queue.push({r, c});
-                    mat[r][c] = mat[row][col] + 1;
-                }
-            }
+        int a[4]={+1,0,-1,0};
+        int b[4]={0,-1,0,+1};
+        while(!q.empty()){
+            int row=q.front().first.first;
+            int col=q.front().first.second;
+            int step =q.front().second;
+            q.pop();
+for(int i=0;i<4;i++){
+    int nrow=row+a[i];
+    int ncol=col+b[i];
+    if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && !vis[nrow][ncol]){
+        int newStep = step + 1;
+        vis[nrow][ncol]=1;
+        ans[nrow][ncol]=newStep ;
+q.push({{nrow,ncol},newStep });
+    }
+}
         }
-        
-        return mat;
+        return ans;
     }
 };
