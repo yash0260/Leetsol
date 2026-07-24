@@ -1,43 +1,51 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
+        int ans=0;
         int n=grid.size();
         int m=grid[0].size();
-        int ans=0;
-      
-queue<pair<pair<int,int>, int>> q;
+        int z=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j]==2){
-                    q.push({{i,j},0});
-                }
+                if (grid[i][j]==1)z++;
             }
         }
-        
-while(!q.empty()){
-     int step=q.front().second;
-    int row=q.front().first.first;
-    int col=q.front().first.second;
-   q.pop();
-  int dx[4]={-1,0,1,0};
-    int dy[4]={0,1,0,-1};
-                for(int i=0;i<4;i++){
-                    int nrow=row+dx[i];
-                    int ncol=col+dy[i];
-                     if(nrow>=0 && nrow<n && ncol>=0 && ncol<m &&
-                    grid[nrow][ncol]==1 ){
-                        q.push({{nrow,ncol},step+1});
-                        grid[nrow][ncol]=2;
-                    }
-                }
-                ans = max(ans, step);
-            } 
-            for(int i=0;i<n;i++){
+        if(z==0)return 0;
+        queue<pair<int,int>>q;
+        for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j] == 1) return -1;
+if(grid[i][j]==2){
+    q.push({i,j});
+}
             }
         }
-            return ans;  
+            int dr[]={-1,1,0,0};
+            int dc[]={0,0,-1,1};
+            while(!q.empty()){
+                int sz=q.size();
+
+    while(sz--){
+auto a=q.front();
+q.pop();
+int x=a.first;
+int y=a.second;
+for(int i=0;i<4;i++){
+   int  newr=x+dr[i];
+    int newc=y+dc[i];
+    if(newr>=0 && newr<n && newc>=0 && newc<m && grid[newr][newc]==1){
+        grid[newr][newc]=2;
+        q.push({newr,newc});
+    }
+            }
             
+        }
+        ans++;
+    }
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if (grid[i][j]==1)return -1;
+            }
+        }
+        return ans-1;
     }
 };
