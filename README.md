@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-longest-common-suffix-queries](https://github.com/yash0260/Leetsol/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yash0260/Leetsol/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/yash0260/Leetsol/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yash0260/Leetsol/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/yash0260/Leetsol/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/yash0260/Leetsol/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yash0260/Leetsol/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -608,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yash0260/Leetsol/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/yash0260/Leetsol/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/yash0260/Leetsol/tree/master/1840-maximum-building-height) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yash0260/Leetsol/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/yash0260/Leetsol/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yash0260/Leetsol/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash0260/Leetsol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -709,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/yash0260/Leetsol/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yash0260/Leetsol/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Monotonic Stack
 |  |
 | ------- |
