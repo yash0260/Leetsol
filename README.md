@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/yash0260/Leetsol/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/yash0260/Leetsol/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2069-walking-robot-simulation-ii](https://github.com/yash0260/Leetsol/tree/master/2069-walking-robot-simulation-ii) |
 ## Stack
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yash0260/Leetsol/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yash0260/Leetsol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/yash0260/Leetsol/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/yash0260/Leetsol/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/yash0260/Leetsol/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/yash0260/Leetsol/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/yash0260/Leetsol/tree/master/1021-remove-outermost-parentheses) |
@@ -725,4 +727,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/yash0260/Leetsol/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/yash0260/Leetsol/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yash0260/Leetsol/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/yash0260/Leetsol/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
