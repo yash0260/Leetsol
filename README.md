@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yash0260/Leetsol/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yash0260/Leetsol/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/yash0260/Leetsol/tree/master/3488-closest-equal-element-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/yash0260/Leetsol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yash0260/Leetsol/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/yash0260/Leetsol/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/yash0260/Leetsol/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yash0260/Leetsol/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/yash0260/Leetsol/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yash0260/Leetsol/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/yash0260/Leetsol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/yash0260/Leetsol/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/yash0260/Leetsol/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yash0260/Leetsol/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -551,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash0260/Leetsol/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yash0260/Leetsol/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yash0260/Leetsol/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/yash0260/Leetsol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/yash0260/Leetsol/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/yash0260/Leetsol/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yash0260/Leetsol/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -589,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/yash0260/Leetsol/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/yash0260/Leetsol/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yash0260/Leetsol/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/yash0260/Leetsol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/yash0260/Leetsol/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Backtracking
 |  |
@@ -690,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/yash0260/Leetsol/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yash0260/Leetsol/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/yash0260/Leetsol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
