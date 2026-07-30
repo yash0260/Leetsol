@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/yash0260/Leetsol/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/yash0260/Leetsol/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yash0260/Leetsol/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/yash0260/Leetsol/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/yash0260/Leetsol/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/yash0260/Leetsol/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/yash0260/Leetsol/tree/master/0151-reverse-words-in-a-string) |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yash0260/Leetsol/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yash0260/Leetsol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yash0260/Leetsol/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yash0260/Leetsol/tree/master/0144-binary-tree-preorder-traversal) |
