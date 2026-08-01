@@ -1,7 +1,7 @@
 # Write your MySQL query statement below
 SELECT
     query_name,
-    ROUND(AVG(rating * 1.0 / position), 2) AS quality,
+    ROUND(AVG(rating  / position), 2) AS quality,
     ROUND(AVG(CASE
                 WHEN rating < 3 THEN 100
                 ELSE 0
