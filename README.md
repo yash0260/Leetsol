@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/yash0260/Leetsol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yash0260/Leetsol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yash0260/Leetsol/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/yash0260/Leetsol/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/yash0260/Leetsol/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/yash0260/Leetsol/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/yash0260/Leetsol/tree/master/0053-maximum-subarray) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/yash0260/Leetsol/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/yash0260/Leetsol/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/yash0260/Leetsol/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/yash0260/Leetsol/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash0260/Leetsol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/yash0260/Leetsol/tree/master/0127-word-ladder) |
