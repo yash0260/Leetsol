@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/yash0260/Leetsol/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/yash0260/Leetsol/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/yash0260/Leetsol/tree/master/1345-jump-game-iv) |
+| [1406-stone-game-iii](https://github.com/yash0260/Leetsol/tree/master/1406-stone-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/yash0260/Leetsol/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yash0260/Leetsol/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yash0260/Leetsol/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -514,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yash0260/Leetsol/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1340-jump-game-v](https://github.com/yash0260/Leetsol/tree/master/1340-jump-game-v) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/yash0260/Leetsol/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1406-stone-game-iii](https://github.com/yash0260/Leetsol/tree/master/1406-stone-game-iii) |
 | [1871-jump-game-vii](https://github.com/yash0260/Leetsol/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/yash0260/Leetsol/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/yash0260/Leetsol/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -560,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/yash0260/Leetsol/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/yash0260/Leetsol/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/yash0260/Leetsol/tree/master/0788-rotated-digits) |
+| [1406-stone-game-iii](https://github.com/yash0260/Leetsol/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/yash0260/Leetsol/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/yash0260/Leetsol/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash0260/Leetsol/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -754,4 +757,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/yash0260/Leetsol/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/yash0260/Leetsol/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/yash0260/Leetsol/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/yash0260/Leetsol/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
