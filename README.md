@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/yash0260/Leetsol/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/yash0260/Leetsol/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/yash0260/Leetsol/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/yash0260/Leetsol/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/yash0260/Leetsol/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/yash0260/Leetsol/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/yash0260/Leetsol/tree/master/0704-binary-search) |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/yash0260/Leetsol/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/yash0260/Leetsol/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/yash0260/Leetsol/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/yash0260/Leetsol/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/yash0260/Leetsol/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yash0260/Leetsol/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yash0260/Leetsol/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -750,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/yash0260/Leetsol/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/yash0260/Leetsol/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/yash0260/Leetsol/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yash0260/Leetsol/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
