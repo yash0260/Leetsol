@@ -1,15 +1,20 @@
 class Solution {
 public:
-int recursion(int i,int j, int m,int n,vector<vector<int>>&dp){
-if(i==m && j==n)return 1;
-if(i>m ||j>n)return 0;
-if(dp[i][j]!=-1)return dp[i][j];
-int right=recursion(i,j+1,m,n,dp);
-int bottom=recursion(i+1,j,m,n,dp);
-return dp[i][j]=right +bottom;
-}
+
     int uniquePaths(int m, int n) {
         vector<vector<int>>dp(m,vector<int>(n,-1));
-       return recursion(0,0,m-1,n-1,dp);
+       for(int j=0;j<n;j++){
+        dp[m-1][j]=1;
+       }
+        for(int i=0;i<m;i++){
+        dp[i][n-1]=1;
+       }
+       for(int i=m-2;i>=0;i--){
+        for(int j=n-2;j>=0;j--){
+            dp[i][j]=dp[i+1][j]+dp[i][j+1];
+        }
+       }
+       return dp[0][0];
+
     }
 };
