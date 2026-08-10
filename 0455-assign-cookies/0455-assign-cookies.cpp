@@ -6,18 +6,18 @@ public:
         int f=s.size();
         sort(g.begin(),g.end());
         sort(s.begin(),s.end());
-        int i=0,j=0;
-        while(i<n&& j<f){
+        int i=n-1 ;
+        int j=f-1;
+        while(i>=0 &&j>=0){
             if(g[i]<=s[j]){
-                i++;
-                j++;
-                cnt=i;
+                cnt++;
+                i--;
+                j--;
             }else{
-                j++;
-
+                i--;
             }
-
         }
+
         return cnt;
             }
 };
