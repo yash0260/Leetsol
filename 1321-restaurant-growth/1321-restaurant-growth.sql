@@ -26,5 +26,4 @@ SELECT
     seven_day_total AS amount,
     ROUND(seven_day_total / 7, 2) AS average_amount
 FROM windowed
-WHERE rn >= 7
-ORDER BY visited_on;
+WHERE rn >= 7;
