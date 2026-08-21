@@ -1,19 +1,16 @@
 class Solution {
 public:
- void dfs(int row, int col, vector<vector<char>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
-
-        if (row < 0 || row >= n || col < 0 || col >= m ||
-            grid[row][col] == '0')
-            return;
-
-        grid[row][col] = '0';
-
-        dfs(row - 1, col, grid); // Up
-        dfs(row + 1, col, grid); // Down
-        dfs(row, col - 1, grid); // Left
-        dfs(row, col + 1, grid); // Right
+ void dfs(int row, int col, vector<vector<char>>& grid,int n,int m) {
+grid[row][col]='2';
+    int dr[]={-1,1,0,0};
+    int dc[]={0,0,-1,1};
+    for(int i=0;i<4;i++){
+int newr=row+dr[i];
+int newc=col+dc[i];
+ if (newr >= 0 && newr < n && newc >= 0 && newc < m &&
+            grid[newr][newc] == '1')
+dfs(newr,newc,grid,n,m);
+    }
     }
 
     int numIslands(vector<vector<char>>& grid) {
@@ -27,7 +24,7 @@ public:
 
                 if (grid[i][j] == '1') {
                     islands++;
-                    dfs(i, j, grid);
+                    dfs(i, j, grid,n,m);
                 }
 
             }
