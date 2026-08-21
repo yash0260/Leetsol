@@ -7,8 +7,8 @@ int solve(int ind,vector<int>& coins, int amount,vector<vector<int>>&dp){
         return 1e9;
     }
     if(dp[ind][amount]!=-1) return dp[ind][amount];
-    long take=INT_MAX;
-    long nottake=INT_MAX;
+    int  take=INT_MAX;
+    int nottake=INT_MAX;
     if(amount>=coins[ind]){
         take=1+solve(ind,coins,amount-coins[ind],dp);
     }
