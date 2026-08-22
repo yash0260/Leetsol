@@ -372,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/yash0260/Leetsol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yash0260/Leetsol/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/yash0260/Leetsol/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/yash0260/Leetsol/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yash0260/Leetsol/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/yash0260/Leetsol/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/yash0260/Leetsol/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/yash0260/Leetsol/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/yash0260/Leetsol/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/yash0260/Leetsol/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/yash0260/Leetsol/tree/master/0542-01-matrix) |
@@ -731,6 +733,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/yash0260/Leetsol/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/yash0260/Leetsol/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/yash0260/Leetsol/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/yash0260/Leetsol/tree/master/0802-find-eventual-safe-states) |
@@ -753,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/yash0260/Leetsol/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/yash0260/Leetsol/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/yash0260/Leetsol/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/yash0260/Leetsol/tree/master/3620-network-recovery-pathways) |
@@ -878,4 +882,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/yash0260/Leetsol/tree/master/0300-longest-increasing-subsequence) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/yash0260/Leetsol/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
