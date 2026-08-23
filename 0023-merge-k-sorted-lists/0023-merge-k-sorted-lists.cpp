@@ -1,34 +1,41 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        int n = lists.size();
-        if(n == 0){
-            return NULL;
-        }
 
-        vector<int> arr;
+        // Min heap: stores {node value, node pointer}
+        priority_queue<
+            pair<int, ListNode*>,
+            vector<pair<int, ListNode*>>,
+            greater<pair<int, ListNode*>>
+        > pq;
 
-        // Step 1: Extract all node values
-        for(int i = 0; i < n; i++) {
-            ListNode* temp = lists[i];
-            while(temp != NULL) {
-                arr.push_back(temp->val);
-                temp = temp->next;
+        // Put the first node of every list into the heap
+        for(int i = 0; i < lists.size(); i++) {
+            if(lists[i] != nullptr) {
+                pq.push({lists[i]->val, lists[i]});
             }
         }
 
-        // Step 2: Sort the values
-        sort(arr.begin(), arr.end());
+        // Dummy node
+        ListNode* dummy = new ListNode(-1);
+        ListNode* temp = dummy;
 
-        // Step 3: Create new sorted linked list
-        ListNode* dummyNode = new ListNode(-1);
-        ListNode* curr = dummyNode;
-        for(int i = 0; i < arr.size(); i++) {
-            curr->next = new ListNode(arr[i]);
-            curr = curr->next;
+        while(!pq.empty()) {
+
+            // Get the smallest node
+            auto [value, node] = pq.top();
+            pq.pop();
+
+            // Add it to the merged list
+            temp->next = node;
+            temp = temp->next;
+
+            // Add the next node from the same list
+            if(node->next != nullptr) {
+                pq.push({node->next->val, node->next});
+            }
         }
 
-        // Step 4: Return head of the new list
-        return dummyNode->next;
+        return dummy->next;
     }
 };
