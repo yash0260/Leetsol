@@ -908,4 +908,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/yash0260/Leetsol/tree/master/0142-linked-list-cycle-ii) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/yash0260/Leetsol/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
