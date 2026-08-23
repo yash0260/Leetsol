@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/yash0260/Leetsol/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/yash0260/Leetsol/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/yash0260/Leetsol/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/yash0260/Leetsol/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash0260/Leetsol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/yash0260/Leetsol/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/yash0260/Leetsol/tree/master/0128-longest-consecutive-sequence) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/yash0260/Leetsol/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yash0260/Leetsol/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/yash0260/Leetsol/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/yash0260/Leetsol/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/yash0260/Leetsol/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/yash0260/Leetsol/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/yash0260/Leetsol/tree/master/0151-reverse-words-in-a-string) |
@@ -764,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/yash0260/Leetsol/tree/master/0076-minimum-window-substring) |
 | [0904-fruit-into-baskets](https://github.com/yash0260/Leetsol/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/yash0260/Leetsol/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/yash0260/Leetsol/tree/master/0992-subarrays-with-k-different-integers) |
