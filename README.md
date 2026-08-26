@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/yash0260/Leetsol/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/yash0260/Leetsol/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash0260/Leetsol/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/yash0260/Leetsol/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash0260/Leetsol/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/yash0260/Leetsol/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yash0260/Leetsol/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -520,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/yash0260/Leetsol/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/yash0260/Leetsol/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/yash0260/Leetsol/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/yash0260/Leetsol/tree/master/1004-max-consecutive-ones-iii) |
