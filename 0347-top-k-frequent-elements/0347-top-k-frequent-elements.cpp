@@ -17,12 +17,12 @@ public:
         }
 
         sort(arr.begin(), arr.end());
-
+reverse(arr.begin(),arr.end());
         vector<int> result;
 
         int m = arr.size();
 
-        for(int i = m - 1; i >= m - k; i--) {
+        for(int i = 0; i<k; i++) {
             result.push_back(arr[i].second);
         }
 
