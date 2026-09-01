@@ -340,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/yash0260/Leetsol/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yash0260/Leetsol/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yash0260/Leetsol/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/yash0260/Leetsol/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/yash0260/Leetsol/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/yash0260/Leetsol/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/yash0260/Leetsol/tree/master/0127-word-ladder) |
@@ -583,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yash0260/Leetsol/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/yash0260/Leetsol/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yash0260/Leetsol/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yash0260/Leetsol/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yash0260/Leetsol/tree/master/0055-jump-game) |
@@ -725,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yash0260/Leetsol/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/yash0260/Leetsol/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/yash0260/Leetsol/tree/master/0494-target-sum) |
 ## Recursion
@@ -962,4 +965,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yash0260/Leetsol/tree/master/0146-lru-cache) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/yash0260/Leetsol/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
