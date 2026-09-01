@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/yash0260/Leetsol/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/yash0260/Leetsol/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yash0260/Leetsol/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/yash0260/Leetsol/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yash0260/Leetsol/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yash0260/Leetsol/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash0260/Leetsol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/yash0260/Leetsol/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/yash0260/Leetsol/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/yash0260/Leetsol/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/yash0260/Leetsol/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/yash0260/Leetsol/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/yash0260/Leetsol/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/yash0260/Leetsol/tree/master/0151-reverse-words-in-a-string) |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/yash0260/Leetsol/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yash0260/Leetsol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/yash0260/Leetsol/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/yash0260/Leetsol/tree/master/0099-recover-binary-search-tree) |
@@ -515,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/yash0260/Leetsol/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/yash0260/Leetsol/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yash0260/Leetsol/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/yash0260/Leetsol/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/yash0260/Leetsol/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yash0260/Leetsol/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash0260/Leetsol/tree/master/0240-search-a-2d-matrix-ii) |
@@ -729,6 +733,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/yash0260/Leetsol/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/yash0260/Leetsol/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/yash0260/Leetsol/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/yash0260/Leetsol/tree/master/0494-target-sum) |
 ## Recursion
 |  |
