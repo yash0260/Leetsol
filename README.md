@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/yash0260/Leetsol/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yash0260/Leetsol/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yash0260/Leetsol/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/yash0260/Leetsol/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yash0260/Leetsol/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/yash0260/Leetsol/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/yash0260/Leetsol/tree/master/0621-task-scheduler) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/yash0260/Leetsol/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/yash0260/Leetsol/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/yash0260/Leetsol/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/yash0260/Leetsol/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/yash0260/Leetsol/tree/master/0451-sort-characters-by-frequency) |
 | [0583-delete-operation-for-two-strings](https://github.com/yash0260/Leetsol/tree/master/0583-delete-operation-for-two-strings) |
@@ -734,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yash0260/Leetsol/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/yash0260/Leetsol/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yash0260/Leetsol/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/yash0260/Leetsol/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/yash0260/Leetsol/tree/master/0992-subarrays-with-k-different-integers) |
@@ -911,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yash0260/Leetsol/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yash0260/Leetsol/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/yash0260/Leetsol/tree/master/0387-first-unique-character-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
