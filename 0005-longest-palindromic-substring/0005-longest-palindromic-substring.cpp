@@ -1,48 +1,29 @@
-class Solution {
-public:
-    string longestPalindrome(string s) {
-        int n = s.size();
+class Solution { 
+    void expandFromCenter(string &s,int left,int right,int &start,int &maxLen){ 
+        while (left >= 0 && right < s.size() && s[left] == s[right]) { 
+            int len = right - left + 1; 
+            if (len > maxLen) { 
+                maxLen = len; 
+                start = left; 
+            } 
+            left--; 
+            right++; 
+        }    
+    } 
+         
+public: 
+    string longestPalindrome(string s) { 
+        int n=s.size(); 
+        if(n==0)return ""; 
+        int start=0,maxLen=1; 
 
-        if (n == 0)
-            return "";
+        for(int i=0;i<n;i++){
+            //odd center 
+            expandFromCenter(s, i, i, start, maxLen);
+            //even center 
+            expandFromCenter(s, i, i + 1, start, maxLen); 
+        } 
 
-        vector<vector<bool>> dp(n, vector<bool>(n, false));
-
-        int start = 0;
-        int maxLen = 1;
-
-        // Length 1 substrings
-        for (int i = 0; i < n; i++) {
-            dp[i][i] = true;
-        }
-
-        // Check substrings of length 2 to n
-        for (int len = 2; len <= n; len++) {
-
-            for (int i = 0; i + len <= n; i++) {
-
-                int j = i + len - 1;
-
-                if (s[i] == s[j]) {
-
-                    // Length 2
-                    if (len == 2) {
-                        dp[i][j] = true;
-                    }
-                    // Length > 2
-                    else {
-                        dp[i][j] = dp[i + 1][j - 1];
-                    }
-                }
-
-                // Update longest palindrome
-                if (dp[i][j] && len > maxLen) {
-                    maxLen = len;
-                    start = i;
-                }
-            }
-        }
-
-        return s.substr(start, maxLen);
-    }
+        return s.substr(start, maxLen); 
+    } 
 };
