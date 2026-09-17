@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/yash0260/Leetsol/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/yash0260/Leetsol/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yash0260/Leetsol/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yash0260/Leetsol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/yash0260/Leetsol/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/yash0260/Leetsol/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/yash0260/Leetsol/tree/master/1901-find-a-peak-element-ii) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/yash0260/Leetsol/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/yash0260/Leetsol/tree/master/1345-jump-game-iv) |
 | [1406-stone-game-iii](https://github.com/yash0260/Leetsol/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yash0260/Leetsol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/yash0260/Leetsol/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/yash0260/Leetsol/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yash0260/Leetsol/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/yash0260/Leetsol/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/yash0260/Leetsol/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yash0260/Leetsol/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yash0260/Leetsol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/yash0260/Leetsol/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/yash0260/Leetsol/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/yash0260/Leetsol/tree/master/2540-minimum-common-value) |
@@ -653,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/yash0260/Leetsol/tree/master/1340-jump-game-v) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/yash0260/Leetsol/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/yash0260/Leetsol/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yash0260/Leetsol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yash0260/Leetsol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/yash0260/Leetsol/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/yash0260/Leetsol/tree/master/1872-stone-game-viii) |
@@ -852,6 +856,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/yash0260/Leetsol/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/yash0260/Leetsol/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yash0260/Leetsol/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yash0260/Leetsol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1871-jump-game-vii](https://github.com/yash0260/Leetsol/tree/master/1871-jump-game-vii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yash0260/Leetsol/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Topological Sort
