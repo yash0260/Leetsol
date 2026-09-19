@@ -1,36 +1,23 @@
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
-              int n = nums.size();
+      int n = nums.size();
 
-        // Initially, assume no greater element exists
-        vector<int> result(n, -1);
+        vector<int> ans(n, -1);
+        stack<int> st;  // Stores indices
 
-        stack<int> st;
-
-        // Traverse the array twice
-        for(int i = 2 * n - 1; i >= 0; i--) {
-
-            // Convert virtual index to actual index
-            int index = i % n;
-
-            // Remove elements smaller than or equal to current
-            while(!st.empty() && st.top() <= nums[index]) {
+         for (int i = 2 * n - 1; i >= 0; i--) {
+            int idx = i % n;
+             while (!st.empty() && nums[st.top()] <= nums[idx]) {
                 st.pop();
+            }  
+             if (i < n && !st.empty()) {
+                ans[idx] = nums[st.top()];
             }
 
-            // We only need to fill answers during
-            // the second/actual traversal
-            if(i < n) {
-                if(!st.empty()) {
-                    result[index] = st.top();
-                }
-            }
-
-            // Push current element
-            st.push(nums[index]);
+            st.push(idx);
         }
 
-        return result;
+        return ans;
     }
 };
