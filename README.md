@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/yash0260/Leetsol/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yash0260/Leetsol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yash0260/Leetsol/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0179-largest-number](https://github.com/yash0260/Leetsol/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/yash0260/Leetsol/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yash0260/Leetsol/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/yash0260/Leetsol/tree/master/0200-number-of-islands) |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/yash0260/Leetsol/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/yash0260/Leetsol/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/yash0260/Leetsol/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/yash0260/Leetsol/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/yash0260/Leetsol/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yash0260/Leetsol/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -686,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/yash0260/Leetsol/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/yash0260/Leetsol/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yash0260/Leetsol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/yash0260/Leetsol/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/yash0260/Leetsol/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/yash0260/Leetsol/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/yash0260/Leetsol/tree/master/0410-split-array-largest-sum) |
@@ -807,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0018-4sum](https://github.com/yash0260/Leetsol/tree/master/0018-4sum) |
+| [0179-largest-number](https://github.com/yash0260/Leetsol/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash0260/Leetsol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yash0260/Leetsol/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yash0260/Leetsol/tree/master/0347-top-k-frequent-elements) |
