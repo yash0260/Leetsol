@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/yash0260/Leetsol/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/yash0260/Leetsol/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/yash0260/Leetsol/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/yash0260/Leetsol/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/yash0260/Leetsol/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/yash0260/Leetsol/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/yash0260/Leetsol/tree/master/0733-flood-fill) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/yash0260/Leetsol/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yash0260/Leetsol/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/yash0260/Leetsol/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/yash0260/Leetsol/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/yash0260/Leetsol/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash0260/Leetsol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/yash0260/Leetsol/tree/master/0846-hand-of-straights) |
@@ -597,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yash0260/Leetsol/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/yash0260/Leetsol/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/yash0260/Leetsol/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/yash0260/Leetsol/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/yash0260/Leetsol/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yash0260/Leetsol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
