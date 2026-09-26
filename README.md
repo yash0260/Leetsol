@@ -1084,4 +1084,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0836-rectangle-overlap](https://github.com/yash0260/Leetsol/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/yash0260/Leetsol/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/yash0260/Leetsol/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
