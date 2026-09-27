@@ -453,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash0260/Leetsol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/yash0260/Leetsol/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/yash0260/Leetsol/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/yash0260/Leetsol/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/yash0260/Leetsol/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash0260/Leetsol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/yash0260/Leetsol/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/yash0260/Leetsol/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/yash0260/Leetsol/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/yash0260/Leetsol/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -890,6 +892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/yash0260/Leetsol/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yash0260/Leetsol/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/yash0260/Leetsol/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/yash0260/Leetsol/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/yash0260/Leetsol/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/yash0260/Leetsol/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yash0260/Leetsol/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -922,6 +925,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/yash0260/Leetsol/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/yash0260/Leetsol/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/yash0260/Leetsol/tree/master/3620-network-recovery-pathways) |
 ## Binary Indexed Tree
@@ -956,6 +960,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/yash0260/Leetsol/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/yash0260/Leetsol/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/yash0260/Leetsol/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/yash0260/Leetsol/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/yash0260/Leetsol/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yash0260/Leetsol/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/yash0260/Leetsol/tree/master/3620-network-recovery-pathways) |
@@ -1094,4 +1099,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/yash0260/Leetsol/tree/master/0127-word-ladder) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/yash0260/Leetsol/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
