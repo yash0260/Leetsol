@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/yash0260/Leetsol/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/yash0260/Leetsol/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/yash0260/Leetsol/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/yash0260/Leetsol/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/yash0260/Leetsol/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/yash0260/Leetsol/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/yash0260/Leetsol/tree/master/0054-spiral-matrix) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash0260/Leetsol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yash0260/Leetsol/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/yash0260/Leetsol/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/yash0260/Leetsol/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/yash0260/Leetsol/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/yash0260/Leetsol/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash0260/Leetsol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -383,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/yash0260/Leetsol/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yash0260/Leetsol/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yash0260/Leetsol/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/yash0260/Leetsol/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/yash0260/Leetsol/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/yash0260/Leetsol/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/yash0260/Leetsol/tree/master/0079-word-search) |
@@ -843,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/yash0260/Leetsol/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yash0260/Leetsol/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/yash0260/Leetsol/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yash0260/Leetsol/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/yash0260/Leetsol/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash0260/Leetsol/tree/master/0215-kth-largest-element-in-an-array) |
