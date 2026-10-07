@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1068-product-sales-analysis-i](https://github.com/yash0260/Leetsol/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/yash0260/Leetsol/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/yash0260/Leetsol/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1148-article-views-i](https://github.com/yash0260/Leetsol/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/yash0260/Leetsol/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/yash0260/Leetsol/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/yash0260/Leetsol/tree/master/1204-last-person-to-fit-in-the-bus) |
