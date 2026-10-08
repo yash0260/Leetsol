@@ -1,5 +1,5 @@
-SELECT
-    s.user_id,
+# Write your MySQL query statement below
+SELECT s.user_id,
     ROUND(
         IFNULL(SUM(c.action='confirmed') / COUNT(c.action), 0),
         2
