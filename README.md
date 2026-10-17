@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/yash0260/Leetsol/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yash0260/Leetsol/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/yash0260/Leetsol/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/yash0260/Leetsol/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/yash0260/Leetsol/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash0260/Leetsol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yash0260/Leetsol/tree/master/0217-contains-duplicate) |
@@ -791,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/yash0260/Leetsol/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/yash0260/Leetsol/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yash0260/Leetsol/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/yash0260/Leetsol/tree/master/3483-unique-3-digit-even-numbers) |
@@ -806,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/yash0260/Leetsol/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yash0260/Leetsol/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/yash0260/Leetsol/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/yash0260/Leetsol/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/yash0260/Leetsol/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/yash0260/Leetsol/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/yash0260/Leetsol/tree/master/0486-predict-the-winner) |
@@ -854,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/yash0260/Leetsol/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash0260/Leetsol/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yash0260/Leetsol/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yash0260/Leetsol/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1183,4 +1187,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0543-diameter-of-binary-tree) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yash0260/Leetsol/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yash0260/Leetsol/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yash0260/Leetsol/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
