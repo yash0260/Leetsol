@@ -1,9 +1,9 @@
 class MinStack {
 public:
-   stack<int> st;     
+stack<int> st;     
     stack<int> minSt; 
     MinStack() {
-     
+        
     }
     
     void push(int value) {
@@ -22,11 +22,12 @@ public:
     }
     
     int top() {
-         return st.top();
+                return st.top();
+ 
     }
     
     int getMin() {
-                return minSt.top();
+                        return minSt.top();
 
     }
 };
