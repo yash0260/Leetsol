@@ -1,29 +1,20 @@
 class Solution {
 public:
-bool ispallindrome(string a){
-    int i=0;
-    int j=a.size()-1;
-    while(i<=j){
-        if(a[i]==a[j]){
-            i++;
-            j--;
-        }else{
-            return 0;
-        }
-    }
-    return 1;
-}
     int countSubstrings(string s) {
-        int cnt=0;
-        int n=s.size();
-        for(int i=0;i<n;i++){
-            string k="";
-            for(int j=i;j<n;j++){
-            k+=s[j];
-            if(ispallindrome(k))cnt++;
-            }
-            k="";
+       int count=0;
+       for(int i=0;i<s.size();i++){
+        count+=expand(s,i,i);
+        count+=expand(s,i,i+1);
+       }
+       return count; 
+    }
+    int expand(string& s, int left, int right){
+        int count=0;
+        while(left>=0 && right<s.length() && s[left]==s[right]){
+            count++;
+            left--;
+            right++;
         }
-        return cnt;
+        return count;
     }
 };
