@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/yash0260/Leetsol/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yash0260/Leetsol/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/yash0260/Leetsol/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yash0260/Leetsol/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/yash0260/Leetsol/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/yash0260/Leetsol/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/yash0260/Leetsol/tree/master/0496-next-greater-element-i) |
@@ -842,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/yash0260/Leetsol/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/yash0260/Leetsol/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yash0260/Leetsol/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yash0260/Leetsol/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/yash0260/Leetsol/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/yash0260/Leetsol/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/yash0260/Leetsol/tree/master/0836-rectangle-overlap) |
@@ -945,6 +947,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/yash0260/Leetsol/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/yash0260/Leetsol/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/yash0260/Leetsol/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yash0260/Leetsol/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/yash0260/Leetsol/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/yash0260/Leetsol/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
