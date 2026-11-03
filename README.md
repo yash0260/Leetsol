@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3665-twisted-mirror-path-count](https://github.com/yash0260/Leetsol/tree/master/3665-twisted-mirror-path-count) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/yash0260/Leetsol/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yash0260/Leetsol/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yash0260/Leetsol/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/yash0260/Leetsol/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/yash0260/Leetsol/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/yash0260/Leetsol/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -866,6 +867,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/yash0260/Leetsol/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/yash0260/Leetsol/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yash0260/Leetsol/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yash0260/Leetsol/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/yash0260/Leetsol/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yash0260/Leetsol/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yash0260/Leetsol/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
