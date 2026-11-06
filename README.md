@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/yash0260/Leetsol/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/yash0260/Leetsol/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yash0260/Leetsol/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/yash0260/Leetsol/tree/master/2747-count-zero-request-servers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/yash0260/Leetsol/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yash0260/Leetsol/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yash0260/Leetsol/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/yash0260/Leetsol/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/yash0260/Leetsol/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yash0260/Leetsol/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/yash0260/Leetsol/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yash0260/Leetsol/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yash0260/Leetsol/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash0260/Leetsol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -966,6 +968,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/yash0260/Leetsol/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/yash0260/Leetsol/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/yash0260/Leetsol/tree/master/1840-maximum-building-height) |
+| [2747-count-zero-request-servers](https://github.com/yash0260/Leetsol/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash0260/Leetsol/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yash0260/Leetsol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yash0260/Leetsol/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -1028,6 +1031,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yash0260/Leetsol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yash0260/Leetsol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/yash0260/Leetsol/tree/master/1871-jump-game-vii) |
+| [2747-count-zero-request-servers](https://github.com/yash0260/Leetsol/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yash0260/Leetsol/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Topological Sort
 |  |
