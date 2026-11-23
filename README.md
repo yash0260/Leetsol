@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/yash0260/Leetsol/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/yash0260/Leetsol/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/yash0260/Leetsol/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yash0260/Leetsol/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yash0260/Leetsol/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/yash0260/Leetsol/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yash0260/Leetsol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -589,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/yash0260/Leetsol/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yash0260/Leetsol/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yash0260/Leetsol/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yash0260/Leetsol/tree/master/1352-product-of-the-last-k-numbers) |
 | [2069-walking-robot-simulation-ii](https://github.com/yash0260/Leetsol/tree/master/2069-walking-robot-simulation-ii) |
 ## Stack
 |  |
@@ -695,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/yash0260/Leetsol/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/yash0260/Leetsol/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/yash0260/Leetsol/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yash0260/Leetsol/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yash0260/Leetsol/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yash0260/Leetsol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yash0260/Leetsol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -871,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/yash0260/Leetsol/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/yash0260/Leetsol/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/yash0260/Leetsol/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yash0260/Leetsol/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/yash0260/Leetsol/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/yash0260/Leetsol/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yash0260/Leetsol/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -1296,4 +1300,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/yash0260/Leetsol/tree/master/0239-sliding-window-maximum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/yash0260/Leetsol/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/yash0260/Leetsol/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
